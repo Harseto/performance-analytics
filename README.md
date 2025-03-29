@@ -1,4 +1,4 @@
-# performance-analytics
+# Tutorial Pembuatan Syntax di Bigquery
 cara awal pembuatan syntax dari google bigquery
 pertama kunjungi web google bigquery (sudah login memakai akun pribadi)
 lalu klik ikon console sebelah ikon pemilihan bahasa di pojok kanan atas
